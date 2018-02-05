@@ -31,10 +31,5 @@
  <p>如果大家发现了bug，可以在<a href="https://github.com/Newstartsoft/jisupeixunAPP/issues">Issues</a>里面提交，然后官方会及时进行更新修复。提交bug时请尽量多提供一些信息，如截图</p>
  <h2>安装试用</h2>
  <a href="http://www.jisupeixun.com/Home/app" target="_blank">点击安装</a>
- 
- 
- 
- 
-
-APP二次开发流程，可以参考帮助文档：http://www.jisupeixun.com/home/helpinfo?key=f270d625-8bae
-、
+ <h2>APP二开流程</h2>
+<p>APP二次开发流程，可以参考帮助文档：http://www.jisupeixun.com/home/helpinfo?key=f270d625-8bae </p>
